@@ -8,7 +8,7 @@
 
 ### Dashboard Output 1
 
-![App Screenshot](https://raw.githubusercontent.com/sonali-garad/Data-Analysis-And-Visualization-Of-IPL/main/Sample%20op%201.jpg)
+![App Screenshot](https://raw.githubusercontent.com/KULDEEP-11491/IPL-DATA-VISUALIZATION-AND-ANALYSIS/main/p1.jpg)
 
 ### Dashboard Output 2
 
